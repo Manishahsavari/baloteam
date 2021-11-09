@@ -1,0 +1,25 @@
+{
+  "name": "balohub",
+  "version": "1.0.0",
+  "description": "Balohub website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashkanemami2005/Balohub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashkanemami2005/Balohub/issues"
+  },
+  "homepage": "https://github.com/ashkanemami2005/Balohub#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0",
+    "vazir-font": "^28.0.0",
+    "vazir-font-farsi-number": "^20.1.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Balohub",
+  "description": "Balohub theme",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Balohub",
+      "email": "info@balohub.ir"
+    }
+  ],
+  "require": {}
+}

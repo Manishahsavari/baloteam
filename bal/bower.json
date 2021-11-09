@@ -1,0 +1,23 @@
+{
+  "name": "Balohub",
+  "homepage": "https://balohub.ir",
+  "authors": [
+      "Creative Tim"
+  ],
+  "description": "Balohub design system",
+  "main": "gulpfile.js",
+  "keywords": [
+      "argon",
+      "system design",
+      "bootstrap",
+      "design",
+      "google",
+      "twitter"
+  ],
+  "license": "Creative TIM License",
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components"
+  ]
+}
